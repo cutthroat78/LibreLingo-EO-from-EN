@@ -1,3 +1,3 @@
-# LibreLingo-ES-from-EN
+# LibreLingo-EO-from-EN
 
-Spanish course for English speakers
+Esperanto course for English speakers
