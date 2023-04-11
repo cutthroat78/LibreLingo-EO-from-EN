@@ -1,0 +1,33 @@
+Skill:
+  Name: _
+  Id: _
+
+New words:
+  - Word: _ 
+    Synonyms:
+      - _
+    Translation: _
+    Also accepted:
+      - _
+    Images:
+      - _
+      - _
+      - _
+
+Phrases:
+  - Phrase: _
+    Alternative versions:
+      - _
+    Translation: _
+    Alternative translations:
+      - _
+
+Mini-dictionary:
+  English:
+    - _: _ 
+
+  Esperanto:
+    - _: _ 
+
+Two-way-dictionary:
+  - {English Here}: {Esperanto Here}
