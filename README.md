@@ -5,25 +5,36 @@ A LibreLingo Esperanto course for English speakers
 # Planning and Course Layout
 
 - [ ] Make blueprint for Esperanto-from-English course
-  - [ ] Make it where learning grammar is somewhat disguised with learning vocabulary (topics)
-    - [ ] Start each section with a module with that has a page about the grammar and how to do it
-      - [ ] Also name module after the grammar being discussed
-    - [ ] Each Section have about 3 modules
-    - [ ] Add resources page or link to language learning resources page
-  - [ ] Maybe, make anki deck that goes along with course
+  - [ ] Make it where learning grammar is done in the same module as vocabulary
+    - [ ] Start each grammar skill with page on how to do the grammar
+    - [ ] Each Section has 3 modules or more if more skills are needed to teach a grammar concept
+    - [ ] Add resources skill with just a page of a list of resources at to top of course
+
+## Idea for Each Module
+
+- Module
+  - Skill 1: Vocabulary Topic 1
+  - Skill 2: Grammar
+  - Skill 3: Vocabulary Topic 2 (With Grammar)
 
 ## Plan
 
+- [ ] 0 - Info
+  - [ ] What is Esperanto?
+  - [ ] Resources Page
 - [ ] 1 - Basics
   - [ ] Basics (Man, Woman, Girl, Boy, Tree, Banana etc.)
   - [ ] Greetings and Goodbyes
   - [ ] Animals
 - [ ] 2 - Introduction
+  - [ ] Introducing Yourself
+  - [ ] Alphabet (Pronunciation)
+  - [ ] Moods
 - [ ] 3 - Nouns
 
 ## Grammar to Add to Plan
 
-- [ ] Alphabet (Pronunciation)
+- [x] Alphabet (Pronunciation)
 - [ ] Article(s)
 - [ ] Pronouns
 - [ ] Tenses
@@ -45,19 +56,25 @@ A LibreLingo Esperanto course for English speakers
 - [x] Basics (Man, Woman, Girl, Boy, Tree, Banana etc.)
 - [x] Greetings and Goodbyes
 - [x] Animals
-- [ ] Introducing Yourself
+- [x] Introducing Yourself
+- [x] Moods
 - [ ] Clothes
 - [ ] Food
-- [ ] Family
-- [ ] Nature
+- [ ] Family (Members)
 - [ ] Professions
 - [ ] Preferences (Likes and Dislikes)
-- [ ] Questions
+- [ ] Question Words
 - [ ] Sports
 - [ ] Area Facilities
 - [ ] Shopping
 - [ ] Technology
 - [ ] Housework
+- [ ] School Subjects
+- [ ] Hobbies
+- [ ] Jobs and Occupations
+- [ ] Describing Appearance
+- [ ] Personality/Character
+- [ ] Idioms (If any exist in Esperanto (that aren't the same in English))
 
 ## Resources Used to Help Make this Course
 
